@@ -3,3 +3,5 @@ Usage: ./kmeans [switches] -i filename
        -b                 :  input file is in binary format
        -k                 :  number of clusters (default is 8) 
        -t threshold       :  threshold value
+
+	fsadsadsa
